@@ -80,7 +80,6 @@ mpl.rc('font', family='Arial')
 # command line (or alter this code to specify the file paths here)
 docsfile = sys.argv[1]
 labelsfile = sys.argv[2]
-
 # Set this to "True" to save most data structures to local cache files and
 # attempt to load them the next time the script is run.
 useCachedfiles = True
